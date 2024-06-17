@@ -5,7 +5,7 @@ public class Hello1 {
         System.out.print("n:");
         int n=sc.nextInt();
         for(int i=0;i<n;i++){
-            System.out.println(5*i);
+            System.out.println(6*i);
         }
     }
     
